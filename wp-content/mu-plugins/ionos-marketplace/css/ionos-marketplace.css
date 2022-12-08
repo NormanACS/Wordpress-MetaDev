@@ -1,0 +1,4 @@
+.plugin-card[class*=ionos-] .column-rating,
+.plugin-card[class*=ionos-] .column-downloaded {
+    display: none;
+}

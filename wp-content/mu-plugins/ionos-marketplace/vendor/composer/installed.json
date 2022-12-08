@@ -1,0 +1,53 @@
+[
+    {
+        "name": "ionos/ionos-library",
+        "version": "1.4.0",
+        "version_normalized": "1.4.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://git.ionos.org/WordPress-Development/wordpress-library.git",
+            "reference": "4e670ef7a2cb940ea64a7d090bf8e62fb2fcc62c"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "^6"
+        },
+        "time": "2022-07-27T14:39:58+00:00",
+        "type": "wordpress-dropin",
+        "installation-source": "source",
+        "autoload": {
+            "classmap": [
+                "src/"
+            ]
+        },
+        "scripts": {
+            "test": [
+                "composer install",
+                "bin/wait-for-db.sh wordpress_tests wordpress_tests db_tests",
+                "bin/install-wp-tests.sh wordpress_tests wordpress_tests wordpress_tests db_tests",
+                "vendor/bin/phpunit --testsuite default"
+            ]
+        },
+        "license": [
+            "GPL"
+        ],
+        "authors": [
+            {
+                "name": "Angelo Cali",
+                "email": "angelo.cali@ionos.com"
+            },
+            {
+                "name": "Gaelle Despoulain",
+                "email": "gaelle.despoulain@ionos.com"
+            },
+            {
+                "name": "Marko Feldmann",
+                "email": "marko.feldmann@ionos.com"
+            },
+            {
+                "name": "Matthias Pfefferle",
+                "email": "matthias.pfefferle@ionos.com"
+            }
+        ],
+        "description": "IONOS library for internal WordPress plugins"
+    }
+]

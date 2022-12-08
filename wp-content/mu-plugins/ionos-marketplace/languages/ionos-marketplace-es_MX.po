@@ -1,0 +1,3 @@
+#. Description of the plugin
+msgid "IONOS Marketplace offers you a list of carefully selected plugins that will add functionality to your WordPress instance and improve your user experience."
+msgstr "IONOS Marketplace te ofrece una lista de plugins cuidadosamente seleccionados que añadirán funcionalidad a tu instancia de WordPress y mejorarán tu experiencia de usuario."

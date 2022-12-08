@@ -1,0 +1,3 @@
+#. Description of the plugin
+msgid "IONOS Journey is your guide through WordPress. If you have never used WordPress before, Journey will show you the essential parts of the interface. You can stop and restart your Journey at any time."
+msgstr "IONOS Marketplace biedt u een lijst van zorgvuldig geselecteerde extensies die functionaliteit aan uw WordPress-instance zullen toevoegen en uw gebruikerservaring zullen verbeteren."
