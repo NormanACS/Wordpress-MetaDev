@@ -1,0 +1,48 @@
+# Copyright (C) 2020 1&1 IONOS
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: IONOS - SSO <VERSION>\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/ionos-sso\n"
+"POT-Creation-Date: 2020-05-26 11:34:05+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+msgid "%s - Login"
+msgstr "%s - Login"
+
+msgid "Enables the use of the %s - Login service"
+msgstr "Permet l'utilisation du service %s - Login"
+
+msgid "Also includes the %s - Single Sign-on"
+msgstr "Inclut également le %s - Single Sign-on"
+
+msgid "<strong>Error</strong>: The login process via OAuth failed."
+msgstr "<strong>Error</strong>: Le processus de connexion via OAuth a échoué."
+
+msgid "Log in via IONOS"
+msgstr "Se connecter via IONOS"
+
+msgid "Log in via WordPress"
+msgstr "Connexion via WordPress"
+
+msgid "The login process via SSO failed"
+msgstr "La procédure de connexion via le SSO a échoué"
+
+msgid "my.ionos.com"
+msgstr "ionos.fr"
+
+msgid "Warning"
+msgstr "Avertissement"
+
+msgid "Disable"
+msgstr "Désactiver"
+
+msgid "You are about to disable an IONOS plugin. This may cause dependency problems to other plugins. Do you really want to do that?"
+msgstr "<p>Vous êtes sur le point de désactiver le plugin IONOS Login.</p><p>Cela signifie que vous n'aurez plus la possibilité de vous connecter à WordPress en utilisant l'authentification unique. De même, la fonctionnalité des autres plugins sera affectée.</p><div class='notice notice-error inline'><p>Assurez-vous que vous disposez d'un compte utilisateur pour vous connecter à votre instance WordPress, afin de pouvoir accéder à la zone d'administration de votre site Web après la désinstallation du plugin.</p></div><p>Si vous décidez néanmoins de désactiver et de supprimer le plugin, vous pouvez le réinstaller à tout moment via Extensions › Ajouter.</p>"

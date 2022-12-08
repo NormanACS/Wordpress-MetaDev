@@ -1,0 +1,48 @@
+# Copyright (C) 2020 1&1 IONOS
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: IONOS - SSO <VERSION>\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/ionos-sso\n"
+"POT-Creation-Date: 2020-05-26 11:34:05+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+msgid "%s - Login"
+msgstr "%s - Login"
+
+msgid "Enables the use of the %s - Login service"
+msgstr "Permite el uso del %s - servicio OAuth"
+
+msgid "Also includes the %s - Single Sign-on"
+msgstr "También incluye los %s - Single Sign-on"
+
+msgid "<strong>Error</strong>: The login process via OAuth failed."
+msgstr "<strong>Error</strong>: El proceso de acceso a través de OAuth falló."
+
+msgid "Log in via IONOS"
+msgstr "Ingresa a través de IONOS"
+
+msgid "Log in via WordPress"
+msgstr "Ingresa vía WordPress"
+
+msgid "The login process via SSO failed"
+msgstr "El proceso de inicio de sesión a través de SSO falló"
+
+msgid "my.ionos.com"
+msgstr "my.ionos.es"
+
+msgid "Warning"
+msgstr "Advertencia"
+
+msgid "Disable"
+msgstr "Desactivar"
+
+msgid "You are about to disable an IONOS plugin. This may cause dependency problems to other plugins. Do you really want to do that?"
+msgstr "<p>Estás a punto de desactivar el acceso directo mediante IONOS.</p><p>No tendrás la opción de iniciar sesión en WordPress usando el Inicio de Sesión Único (SSO). Además, la funcionalidad de otros plugins se verá afectada.</p><div class='notice notice-error inline'><p>Si deseas desactivar esta función, es necesario que te asegures de tener los datos de acceso a esta cuenta de WordPress. De lo contrario, no tendrás acceso al área administrativa de tu sitio web tras la desactivación del plugin.</p></div><p>Si aun así deseas desactivar y eliminar el plugin, no te preocupes, puedes volver a activarlo en cualquier momento yendo a Plugins › Añadir nuevo.</p>"

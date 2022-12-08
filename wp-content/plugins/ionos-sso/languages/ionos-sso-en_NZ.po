@@ -1,0 +1,48 @@
+# Copyright (C) 2020 1&1 IONOS
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: IONOS - SSO <VERSION>\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/ionos-sso\n"
+"POT-Creation-Date: 2020-05-26 11:34:05+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+msgid "%s - Login"
+msgstr "%s - Login"
+
+msgid "Enables the use of the %s - Login service"
+msgstr "Enables the use of the %s - Login service"
+
+msgid "Also includes the %s - Single Sign-on"
+msgstr "Also includes the %s - Single Sign-on"
+
+msgid "<strong>Error</strong>: The login process via OAuth failed."
+msgstr "<strong>Error</strong>: The login process via OAuth failed."
+
+msgid "Log in via IONOS"
+msgstr "Log in via IONOS"
+
+msgid "Log in via WordPress"
+msgstr "Log in via WordPress"
+
+msgid "The login process via SSO failed"
+msgstr "The login process via SSO failed"
+
+msgid "my.ionos.com"
+msgstr "my.ionos.co.uk"
+
+msgid "Warning"
+msgstr "Warning"
+
+msgid "Disable"
+msgstr "Disable"
+
+msgid "You are about to disable an IONOS plugin. This may cause dependency problems to other plugins. Do you really want to do that?"
+msgstr "<p>You are about to disable IONOS Login.</p><p>This means that you will no longer be able to log in to your WordPress instance with Single-Sign-on. This will also affect the functionalty of other plugins.</p><div class='notice notice-error inline'><p>Please make absolutely sure that you have a user account to log in to this WordPress instance, so that you can still access the admin area of the website after uninstalling the plugin.</p></div><p>Should you still decide to disable and delete the Plugin, you can always reinstall it through Plugins › Add New.</p>"

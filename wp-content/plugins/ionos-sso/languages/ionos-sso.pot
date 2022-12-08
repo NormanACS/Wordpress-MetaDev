@@ -1,0 +1,58 @@
+# Copyright (C) 2020 IONOS
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: IONOS - Single Sign-on 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ionos-sso\n"
+"POT-Creation-Date: 2020-09-02 08:21:47+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: ionos-sso/inc/class-manager.php:82
+msgid "<strong>Error</strong>: The login process via OAuth failed."
+msgstr ""
+
+#: ionos-sso/inc/class-settings.php:41
+msgid "%s - Login"
+msgstr ""
+
+#: ionos-sso/inc/class-settings.php:58
+msgid "Enables the use of the %s - Login service"
+msgstr ""
+
+#: ionos-sso/inc/class-settings.php:59
+msgid "Also includes the %s - Singe Sign On"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "IONOS - Single Sign-on"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.ionos.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "IONOS - Help Center Integration for WordPress"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "IONOS"
+msgstr ""
+
+msgid "my.ionos.com"
+msgstr ""
+
+msgid "Warning"
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "You are about to disable an IONOS plugin. This may cause dependency problems to other plugins. Do you really want to do that?"
+msgstr ""

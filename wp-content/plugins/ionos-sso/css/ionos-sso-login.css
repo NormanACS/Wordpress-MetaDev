@@ -1,0 +1,51 @@
+#loginform #wp-submit, #loginform .forgetmenot {
+    display: none
+}
+
+.sso-login-link {
+    padding-bottom: 1px;
+    margin: 26px auto 20px;
+    text-align: center;
+}
+
+.sso-login-link > #sso-login-link {
+    width: 100%;
+    float: none;
+}
+#sso_default_login {
+    width: 100%;
+    float: none;
+}
+
+
+#loginform .sso-login-or {
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 26px;
+    position: relative;
+}
+
+#loginform .sso-login-or > span {
+    padding: 0 8px;
+    position: relative;
+    background-color: #ffffff;
+}
+
+#loginform .sso-login-or::before {
+    content: '';
+    height: 1px;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    background: #e5e5e5;
+}
+
+#login form p.submit {
+    margin-top: 14px;
+    text-align: center;
+}
+
+#login form {
+    padding-bottom: 12px;
+}
