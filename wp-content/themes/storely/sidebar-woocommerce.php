@@ -1,0 +1,11 @@
+<?php
+/**
+ * Side Bar Template
+ */
+?>
+<?php if ( ! is_active_sidebar( 'storely-woocommerce-sidebar' ) ) {	return; } ?>
+<div id="st-secondary-content" class="col-lg-3 mb-lg-0 mb-4">
+	<section class="sidebar">
+		<?php dynamic_sidebar('storely-woocommerce-sidebar'); ?>
+	</section>
+</div>

@@ -1,0 +1,227 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Futurio\n"
+"POT-Creation-Date: 2019-05-08 09:57+0200\n"
+"PO-Revision-Date: 2015-12-08 20:48+0100\n"
+"Last-Translator: Futurio <info@futuriowp.com>\n"
+"Language-Team: Futurio <info@futuriowp.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: lib/plugin-update-checker\n"
+
+#: 404.php:37
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:40
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:18
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:23
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:2
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:8
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:14
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:19
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: functions.php:25
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:26
+msgid "Homepage main menu"
+msgstr ""
+
+#: functions.php:224
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:234
+msgid "Archive sidebar"
+msgstr ""
+
+#: functions.php:244
+msgid "Menu Section"
+msgstr ""
+
+#: functions.php:254
+msgid "Footer Section"
+msgstr ""
+
+#: functions.php:265
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: functions.php:275
+msgid "WooCommerce archive sidebar"
+msgstr ""
+
+#: functions.php:333
+msgid "Posted in"
+msgstr ""
+
+#: functions.php:337
+msgid "Tags"
+msgstr ""
+
+#: functions.php:361
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: functions.php:361
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: functions.php:366
+#, php-format
+msgid "Theme: %1$s"
+msgstr ""
+
+#: functions.php:397
+msgid "Off"
+msgstr ""
+
+#: functions.php:402
+msgid "Comment on "
+msgstr ""
+
+#: functions.php:541
+msgid "Previous Post"
+msgstr ""
+
+#: functions.php:541
+msgid "Previous"
+msgstr ""
+
+#: functions.php:542
+msgid "Next Post"
+msgstr ""
+
+#: functions.php:542
+msgid "Next"
+msgstr ""
+
+#: functions.php:557
+msgid "By"
+msgstr ""
+
+#: functions.php:573
+msgid "View your shopping cart"
+msgstr ""
+
+#: functions.php:623
+msgid "My Account"
+msgstr ""
+
+#: lib/customizer-plugin-recommend.php:20 lib/dashboard.php:123
+#, php-format
+msgid ""
+"To take full advantage of all the features this theme has to offer, please "
+"install and activate the %s plugin."
+msgstr ""
+
+#: lib/customizer-plugin-recommend.php:24 lib/dashboard.php:73
+#: lib/dashboard.php:117
+#, php-format
+msgid "Thank you for installing %s."
+msgstr ""
+
+#: lib/customizer-plugin-recommend.php:25 lib/futurio-plugin-install.php:55
+msgid "Install now"
+msgstr ""
+
+#: lib/customizer-plugin-recommend.php:26
+#: lib/customizer/plugin-install/class-plugin-install-helper.php:59
+#: lib/customizer/plugin-install/class-plugin-install-helper.php:75
+#: lib/dashboard.php:126 lib/futurio-plugin-install.php:40
+msgid "Activate"
+msgstr ""
+
+#: lib/customizer/customizer-notice/class-customizer-notice.php:144
+#: lib/customizer/plugin-install/class-plugin-install-helper.php:110
+msgid "Activating"
+msgstr ""
+
+#: lib/dashboard.php:80
+#, php-format
+msgid "Get started with %s"
+msgstr ""
+
+#: lib/dashboard.php:126 lib/futurio-plugin-install.php:29
+msgid "Activated"
+msgstr ""
+
+#: lib/dashboard.php:126
+msgid "Install"
+msgstr ""
+
+#: lib/futurio-plugin-install.php:75
+msgid "Learn more"
+msgstr ""
+
+#: lib/wp_bootstrap_navwalker.php:326
+msgid "Add a menu"
+msgstr ""
+
+#: search.php:11
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/template-part-mainmenu.php:99
+msgid "Menu"
+msgstr ""
+
+#: template-parts/template-part-postauthor.php:4
+msgid "About The Author"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Select"
+#~ msgstr ""
+#~ "Vyberte stránku, která zobrazí podmínky používání pro registraci partnerů"

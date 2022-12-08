@@ -1,0 +1,11 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_futurio_extra">
+            <key name="custom_footer" />
+            <key name="footer-credits" />
+            <key name="custom_blog_feed" />
+            <key name="custom_404_page" />
+            <key name="custom_header" />
+        </key>
+    </admin-texts>
+</wpml-config>

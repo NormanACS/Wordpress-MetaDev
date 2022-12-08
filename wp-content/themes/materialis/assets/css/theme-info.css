@@ -1,0 +1,228 @@
+/* info page css */
+
+.materialis-about-page {
+    margin-right: 20px;
+}
+
+.materialis_install_notice .license-status.red {
+    color: #f00;
+    font-weight: bold;
+}
+
+.materialis-about-page .info-boxes {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: flex;
+}
+
+.materialis-about-page .info-box {
+    width: 33.333%;
+    border: 1px solid #eaeaea;
+    padding: 25px 15px 15px;
+    background-color: #f7f7f7;
+    text-align: center;
+    margin: 1%;
+}
+
+.materialis-about-page .info-box a {
+    color: #444;
+    text-decoration: none;
+}
+
+.materialis-about-page .info-box a:hover {
+    color: #00b9eb;
+}
+
+.materialis-about-page .info-box .icon {
+    font-size: 34px;
+    width: auto;
+    height: auto;
+}
+
+.materialis-about-page .rp-panel {
+    position: relative;
+    overflow: auto;
+    margin: 16px 0;
+    margin-left: 1%;
+    padding: 0 10px;
+    border: 1px solid #e5e5e5;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+    background: #fff;
+    font-size: 13px;
+    line-height: 2.1em;
+}
+
+.materialis-about-page .rp-panel p {
+    font-size: 16px;
+}
+
+.materialis-about-page .rp-c {
+    margin-left: 1%;
+    width: 60%;
+}
+
+.materialis-about-page .rp-plugin-title {
+    margin-top: 0px;
+}
+
+/** new page css */
+
+.materialis-page .tab-item {
+    display: none;
+}
+
+.materialis-page .nav-tab:focus {
+    box-shadow: none;
+}
+
+.materialis-page .tab-item.tab-item-active {
+    display: block;
+}
+
+.welcome-panel.tab-cols {
+    padding: 1rem 0;
+}
+
+.materialis-page .tab-cols {
+    padding-top: 1.5rem;
+}
+
+.materialis-page .tab-cols .col {
+    padding: 0.5rem 1rem;
+}
+
+.bordered-right.col {
+    border-right: 1px solid #cccccc;
+}
+
+.materialis-page .col-title {
+    text-align: left;
+    margin-top: 0.25em;
+}
+
+.materialis-page .col-subtitle {
+    font-weight: normal;
+}
+
+.materialis-page .recommended-plugins {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.materialis-page .rp-plugin-title {
+    margin-top: 0.5em;
+}
+
+.materialis-page .materialis_install_notice {
+    background: #fff;
+    border-left: 4px solid #ffb900;
+    padding: 10px 10px;
+    margin: 15px 0 15px;
+    box-shadow: 0px 1px 2px 1px rgba(0, 0, 0, .1);
+}
+
+.materialis-page .materialis_install_notice.blue {
+    border-left-color: #00a0d2;
+}
+
+.materialis-page .materialis_install_notice {
+    margin-top: 1.2rem;
+    padding-left: 2%;
+}
+
+.materialis-page .materialis_install_notice table {
+    display: inline;
+}
+
+.materialis-page .site-badge {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: inline-block;
+    width: 260px;
+
+}
+
+.materialis-page .tab-cols .table-col-title,
+.materialis-page .tab-cols .table-col-value {
+    text-align: center;
+}
+
+.materialis-page .widefat td {
+    font-size: 1em;
+    line-height: 1.5em;
+}
+
+.materialis-page .table-col-value .dashicons {
+    width: auto;
+    height: 1em;
+}
+
+.materialis-page .table-col-value .dashicons-yes:before {
+    font-size: 28px;
+}
+
+.materialis-page .table-col-value .dashicons-dismiss:before {
+    font-size: 26px;
+}
+
+.materialis-page .table-col-value .dashicons.dashicons-yes {
+    color: #4CAF50;
+}
+
+.materialis-page .table-col-value .dashicons.dashicons-dismiss {
+    color: #EF5350;
+}
+
+.materialis-page .comparision-table h4 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.materialis-page .table-col-feature {
+    padding-left: 1em;
+}
+
+.materialis-page .comparision-table h4 {
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+    font-weight: 400;
+}
+
+.materialis-page .metabox-holder h2.title {
+    font-size: 14px;
+    padding: 8px 12px;
+    margin: 0;
+    line-height: 1.4;
+    text-align: left;
+    font-weight: 600;
+    border-bottom: 1px solid #eee;
+}
+
+.materialis-page .widefat.no-border {
+    border: none;
+}
+
+.materialis-page .changelog-container {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.materialis-page .changelog-container ul {
+    list-style: initial;
+    display: block;
+    box-sizing: border-box;
+    padding-left: 2em;
+}
+
+.materialis-page .changelog-container .area {
+    display: block;
+    padding: 0.4em 1.5em;
+    margin: 0 1px;
+    border: 1px solid #cccccc;
+    background: rgb(255, 255, 255);
+    margin-bottom: 1em;
+}

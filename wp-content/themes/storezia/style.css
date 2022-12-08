@@ -1,0 +1,164 @@
+/*
+Theme Name: Storezia
+Theme URI: https://sellerthemes.com/storezia-free/
+Author: Seller Themes
+Author URI: https://sellerthemes.com/
+Description: Storezia is a WooCommerce multipurpose WordPress theme designed for shopping online stores. Storezia is suitable for eCommerce websites such as fashion, suit, sneaker, shoes, glasses, accessories, supermarket … or anything you want. The theme is built with lots of cool features and fully eCommerce functionalities in Pro version. Visit Storezia pro demo. https://preview.sellerthemes.com/pro/storezia/
+Template: storely
+Version: 1.0.15
+Tested up to: 6.0
+Requires PHP: 5.6
+License: GPLv3 or later
+License URI:  https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: storezia
+Slug: storezia
+Tags: one-column, two-columns, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu,  custom-logo, featured-image-header, featured-images, footer-widgets, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, blog, e-commerce, portfolio, editor-style, grid-layout
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+*/
+
+
+/* Colors */
+
+:root {
+    --bs-primary:#0080ff;
+    --bs-primary-dark:#0366c9;
+    --bs-primary-light: #95bce3;
+}
+
+
+.header4 .main-navbar .dropdown-menu {
+    left: -100%;
+}
+
+.header4 .menu-right-list {
+    padding: 5px 0;
+    border: 1px solid #e8e8e8;
+    border-radius: 5px 5px 0 0;
+    margin-bottom: 24px;
+}
+#main-header4 .widget_nav_menu .menu > .menu-item > .sub-menu {
+    right: 10px;
+}
+#main-header4 .widget_nav_menu .menu > .menu-item > .sub-menu:before {
+    right: 20px;
+    left: unset;
+}
+
+.header4 button.product-category-btn {
+    background: var(--bs-primary);
+}
+
+.header-search-form .header-search-button {
+    border: 1px solid var(--bs-secondary);
+    background-color: var(--bs-secondary) !important;
+}	
+
+.footer-widgets .widget_products li a:before {
+    content: none !important;
+}
+
+.footer-widgets .widget_products li a {
+	display: contents !important;
+}
+
+.bannerinfo-section .col-lg-4 .bannerinfo .bannerinfo-img {
+    width: 120px;
+    margin-right: 15px;
+}
+
+.bannerinfo-section .col-lg-4 .bannerinfo .info-content span {
+    margin-bottom: 12px;
+}
+
+.bannerinfo-section .col-lg-4 .bannerinfo .info-content h4 {
+    font-size: 24px;
+    margin-bottom: 12px;
+}
+
+.bannerinfo-section .col-lg-4 .bannerinfo .info-content .more-link {
+    margin-top: 12px;
+}
+
+.bannerinfo-section .col-lg-4 .bannerinfo {
+    min-height: 217px;
+}	
+
+.wp-block-file a.wp-block-file__button {
+    border-radius: 4px;
+    background-color: var(--bs-primary);
+}
+
+
+.footer-content .footer-widgets .wp-block-social-links a {
+    margin-bottom: 0 !important;
+	padding-left: 6px !important;
+}
+
+.footer-content .footer-widgets .wp-block-social-links a:before {
+    content: none !important;
+}
+
+.aligncenter {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sidebar .wp-block-table {
+    padding: 15px;
+}
+
+.wp-block-table table tr, .wp-block-table table td {
+    border: 1px solid #e8e8e8;
+    text-align: center;
+}
+
+.sidebar .wp-block-table figcaption {
+    text-align: center;
+}
+
+.sidebar .widget_block {
+    padding: 18px 12px;
+}
+
+.post-content .gallery {
+    display: inline-block;
+}
+
+.wp-block-image figcaption {
+    text-align: center;
+}
+
+.wp-block-social-links li.wp-social-link {
+    padding: 0;
+}
+
+.wp-block-social-links li a:before {
+    content: none !important;
+}
+
+.footer-section .wp-block-social-links li a {
+    padding-left: 0.25rem !important;
+    margin-bottom: 0 !important;
+}
+
+.main-header .widget_calendar table caption {
+    padding-right: 1.75rem;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.main-header .wp-block-calendar, .calendar_wrap {
+    padding: 20px;
+}
+
+.post-items .post-content .gallery-item .gallery-icon img {
+    width: 100%;
+}
+
+.footer-section .wp-block-buttons .is-style-outline a.wp-block-button__link {
+    color: var(--bs-primary);
+    border-color: var(--bs-primary);
+}

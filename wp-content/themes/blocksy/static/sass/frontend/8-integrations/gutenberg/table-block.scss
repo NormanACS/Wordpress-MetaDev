@@ -1,0 +1,27 @@
+.wp-block-table {
+
+	thead {
+		border-bottom: 3px solid var(--table-border-color, var(--border-color));
+	}
+
+	tfoot {
+		border-top: 3px solid var(--table-border-color, var(--border-color));
+	}
+	
+	.has-fixed-layout {
+		@include media-breakpoint-down (sm) {
+			table-layout: initial !important;
+			
+			td, th {
+				word-break: initial !important;
+			}
+		}
+	}
+
+	// stripes
+	// &.is-style-stripes thead,
+	// &.is-style-stripes tfoot,
+	&.is-style-stripes {
+		border: 0;
+	}
+}
