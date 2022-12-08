@@ -1,0 +1,233 @@
+# Translation of Themes - Futurio in French (France)
+# This file is distributed under the same license as the Themes - Futurio package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-10 14:47:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Futurio\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Futurio"
+msgstr "Futurio"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Futurio is a lightweight, fast and customizable free multi-purpose and WooCommerce WordPress theme, suitable for business, portfolio, creative, and photography sites, eCommerce shops, landing pages, blogs or WooCommerce storefronts. Futurio works perfectly with all page builders, like Elementor, Beaver Builder, King Composer, Brizy, Visual Composer, SiteOrigin, Divi or Gutenberg, and supports most free and premium WordPress plugins, like WooCommerce, Jetpack, Contact Form 7, Yoast SEO and many more. Futurio is responsive, SEO friendly, WPML, translation and RTL ready, and comes with a 1-click-demo-import feature. Demos ready for download: https://futuriowp.com/demos/"
+msgstr "Futurio est un WordPress WooCommerce léger, rapide, librement personnalisable et polyvalent, approprié pour l’entreprise, le portfolio, la création, les sites de photographie, les boutiques de commerce électronique, les pages d’attente, les blogs ou les boutiques WooCommerce. Futurio fonctionne parfaitement avec tous les constructeurs de pages, comme Elementor, Beaver Builder, King composer, Brizy, Visual composer, SiteOrigin, Divi ou Gutenberg et prend en charge la plupart des extensions WordPress gratuites et payantes, comme WooCommerce, Jetpack, Contact Form 7, Yoast SEO et beaucoup d’autres. Futurio est réactif, optimisé SEO, WPML, traduit en français et RTL et est livré avec une fonctionnalité d’importation en un clic. Démos prêtes au téléchargement : https://futuriowp.com/demos/"
+
+#: lib/customizer/customizer-notice/class-customizer-notice.php:144
+#: lib/customizer/plugin-install/class-plugin-install-helper.php:110
+msgid "Activating"
+msgstr "Activation"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:23
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] " %1$s réflexion sur « %2$s »"
+msgstr[1] " %1$s réflexions sur « %2$s »"
+
+#: template-parts/template-part-postauthor.php:4
+msgid "About The Author"
+msgstr "À propos de l’auteur"
+
+#: lib/customizer-plugin-recommend.php:26
+#: lib/customizer/plugin-install/class-plugin-install-helper.php:59
+#: lib/customizer/plugin-install/class-plugin-install-helper.php:75
+#: lib/dashboard.php:129 lib/futurio-plugin-install.php:40
+msgid "Activate"
+msgstr "Activer"
+
+#: lib/dashboard.php:129 lib/futurio-plugin-install.php:29
+msgid "Activated"
+msgstr "Activée"
+
+#: lib/wp_bootstrap_navwalker.php:326
+msgid "Add a menu"
+msgstr "Ajouter un menu"
+
+#: functions.php:234
+msgid "Archive sidebar"
+msgstr "Colonne latérale d’archive "
+
+#: functions.php:557
+msgid "By"
+msgstr "Par "
+
+#: functions.php:402
+msgid "Comment on "
+msgstr "Commentaire sur"
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: functions.php:254
+msgid "Footer Section"
+msgstr "Pied de page"
+
+#. translators: %s: Theme name
+#: lib/dashboard.php:83
+msgid "Get started with %s"
+msgstr "Démarrer avec %s"
+
+#: functions.php:26
+msgid "Homepage main menu"
+msgstr "Menu principal de page d’accueil"
+
+#. translators: %s: WordPress name with wordpress.org URL
+#: functions.php:361
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: lib/dashboard.php:129
+msgid "Install"
+msgstr "Installer"
+
+#: lib/customizer-plugin-recommend.php:25 lib/futurio-plugin-install.php:55
+msgid "Install now"
+msgstr "Installer maintenant"
+
+#: 404.php:40
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Apparemment, rien n’a été trouvé à cette adresse. Essayez avec une recherche ?"
+
+#: content-none.php:19
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semblerait que nous ne soyons pas en mesure de trouver votre contenu. Essayez en lançant une recherche."
+
+#: lib/futurio-plugin-install.php:75
+msgid "Learn more"
+msgstr "En savoir plus"
+
+#: functions.php:25
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#: template-parts/template-part-mainmenu.php:101
+msgid "Menu"
+msgstr "Menu"
+
+#: functions.php:244
+msgid "Menu Section"
+msgstr "Section de menu"
+
+#: functions.php:623
+msgid "My Account"
+msgstr "Mon compte"
+
+#: functions.php:542
+msgid "Next"
+msgstr "Suivante"
+
+#: functions.php:542
+msgid "Next Post"
+msgstr "Article suivant"
+
+#: content-none.php:2
+msgid "Nothing Found"
+msgstr "Rien n’a été trouvé"
+
+#: functions.php:397
+msgid "Off"
+msgstr "Non"
+
+#. translators: %s: post title
+#: comments.php:19
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Une réflexion sur « %s »"
+
+#: 404.php:37
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Aïe ! Cette page est introuvable."
+
+#: functions.php:333
+msgid "Posted in"
+msgstr "Publié dans"
+
+#: functions.php:541
+msgid "Previous"
+msgstr "Précédente"
+
+#: functions.php:541
+msgid "Previous Post"
+msgstr "Article précédent"
+
+#. translators: %s: WordPress name with wordpress.org URL
+#: functions.php:361
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#. translators: %1$s: link to admin area
+#: content-none.php:8
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt·e à publier votre premier article ? <a href=\"%1$s\">Lancez-vous ici</a>."
+
+#. translators: %s: search result string
+#: search.php:9
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour : %s "
+
+#: functions.php:224
+msgid "Sidebar"
+msgstr "Colonne latérale"
+
+#: content-none.php:14
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères de recherche. Veuillez réessayer avec d’autres mots-clés."
+
+#: functions.php:337
+msgid "Tags"
+msgstr "Mots-clés"
+
+#. translators: %s: Theme name
+#: lib/customizer-plugin-recommend.php:24 lib/dashboard.php:70
+#: lib/dashboard.php:120
+msgid "Thank you for installing %s."
+msgstr "Merci d’avoir installé %s"
+
+#. translators: %1$s: Futurio name with futuriowp.com URL
+#: functions.php:366
+msgid "Theme: %1$s"
+msgstr "Thème : %1$s"
+
+#. translators: %s: Plugin name string
+#: lib/customizer-plugin-recommend.php:20 lib/dashboard.php:76
+#: lib/dashboard.php:126
+msgid "To take full advantage of all the features this theme has to offer, please install and activate the %s plugin."
+msgstr "Pour tirer pleinement avantage de toutes les fonctionnalités que ce thème offre, veuillez installer et activer l’extension %s."
+
+#: functions.php:573
+msgid "View your shopping cart"
+msgstr "Voir votre panier"
+
+#: functions.php:275
+msgid "WooCommerce archive sidebar"
+msgstr "Colonne latérale d’archive WooCommerce"
+
+#: functions.php:265
+msgid "WooCommerce Sidebar"
+msgstr "Barre latérale WooCommerce"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "FuturioWP"
+msgstr "FuturioWP"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://futuriowp.com/"
+msgstr "https://futuriowp.com/"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://futuriowp.com/about/"
+msgstr "https://futuriowp.com/about/"
