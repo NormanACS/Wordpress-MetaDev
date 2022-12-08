@@ -1,0 +1,1470 @@
+{
+    "dup_type": "lite",
+    "created": "2022-10-18 14:21:33",
+    "version_dup": "1.5.0",
+    "version_wp": "6.0.2",
+    "version_db": "8.0.27",
+    "version_php": "7.4.26",
+    "version_os": "WINNT",
+    "blogname": "MetaDev",
+    "exportOnlyDB": 0,
+    "secure_on": false,
+    "secure_pass": "$2a$08$49z7aC.9.XXY6Eb8JCQy3uFp1XpiN4LetgPlFm36T0iu\/rCLOGSbG",
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "dbpass": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "wp_tableprefix": "wp_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "subsites": [
+        {
+            "id": 1,
+            "domain": "public",
+            "path": "\/boutique\/boutiqueMetaDev\/",
+            "blogname": "MetaDev",
+            "blog_prefix": "wp_",
+            "filteredTables": [],
+            "adminUsers": [
+                {
+                    "ID": "1",
+                    "user_login": "admin",
+                    "id": "1"
+                }
+            ],
+            "fullHomeUrl": "http:\/\/public\/boutique\/boutiqueMetaDev",
+            "fullSiteUrl": "http:\/\/public\/boutique\/boutiqueMetaDev",
+            "uploadPath": "wp-content\/uploads",
+            "fullUploadPath": "C:\\wamp64\\www\\public\\boutique\\boutiqueMetaDev\/wp-content\/uploads",
+            "fullUploadSafePath": "C:\/wamp64\/www\/public\/boutique\/boutiqueMetaDev\/wp-content\/uploads",
+            "fullUploadUrl": "http:\/\/public\/boutique\/boutiqueMetaDev\/wp-content\/uploads",
+            "filteredPaths": []
+        }
+    ],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": 0,
+    "dbInfo": {
+        "buildMode": "PHP",
+        "charSetList": [
+            "utf8mb4",
+            "utf8mb3"
+        ],
+        "collationList": [
+            "utf8_general_ci",
+            "utf8mb4_0900_ai_ci",
+            "utf8mb4_unicode_520_ci"
+        ],
+        "engineList": [
+            "MyISAM"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 0,
+        "name": "boutique",
+        "tablesBaseCount": 90,
+        "tablesFinalCount": 90,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 14823,
+        "tablesSizeOnDisk": 20923723,
+        "tablesList": {
+            "wp_actionscheduler_actions": {
+                "inaccurateRows": 1169,
+                "insertedRows": 1250,
+                "size": 575184
+            },
+            "wp_actionscheduler_claims": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 3100
+            },
+            "wp_actionscheduler_groups": {
+                "inaccurateRows": 5,
+                "insertedRows": 5,
+                "size": 9368
+            },
+            "wp_actionscheduler_logs": {
+                "inaccurateRows": 3499,
+                "insertedRows": 3742,
+                "size": 357568
+            },
+            "wp_commentmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            },
+            "wp_comments": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 8628
+            },
+            "wp_duplicator_packages": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 1024
+            },
+            "wp_e_events": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 3260
+            },
+            "wp_gla_budget_recommendations": {
+                "inaccurateRows": 4230,
+                "insertedRows": 4230,
+                "size": 244392
+            },
+            "wp_gla_merchant_issues": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_gla_shipping_rates": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_gla_shipping_times": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_mailpoet_custom_fields": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 2048
+            },
+            "wp_mailpoet_dynamic_segment_filters": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_mailpoet_feature_flags": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 2048
+            },
+            "wp_mailpoet_forms": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_mailpoet_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_mailpoet_newsletter_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 2048
+            },
+            "wp_mailpoet_newsletter_option": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_mailpoet_newsletter_option_fields": {
+                "inaccurateRows": 24,
+                "insertedRows": 24,
+                "size": 9148
+            },
+            "wp_mailpoet_newsletter_posts": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_mailpoet_newsletter_segment": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_mailpoet_newsletter_templates": {
+                "inaccurateRows": 76,
+                "insertedRows": 76,
+                "size": 1108864
+            },
+            "wp_mailpoet_newsletters": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_mailpoet_scheduled_task_subscribers": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_mailpoet_scheduled_tasks": {
+                "inaccurateRows": 24,
+                "insertedRows": 24,
+                "size": 8096
+            },
+            "wp_mailpoet_segments": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 6520
+            },
+            "wp_mailpoet_sending_queues": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_mailpoet_settings": {
+                "inaccurateRows": 15,
+                "insertedRows": 15,
+                "size": 4864
+            },
+            "wp_mailpoet_statistics_bounces": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_mailpoet_statistics_clicks": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_mailpoet_statistics_forms": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_mailpoet_statistics_newsletters": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_mailpoet_statistics_opens": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_mailpoet_statistics_unsubscribes": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_mailpoet_statistics_woocommerce_purchases": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_mailpoet_stats_notifications": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_mailpoet_subscriber_custom_field": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_mailpoet_subscriber_ips": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_mailpoet_subscriber_segment": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 4132
+            },
+            "wp_mailpoet_subscriber_tag": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_mailpoet_subscribers": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 15472
+            },
+            "wp_mailpoet_tags": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            },
+            "wp_mailpoet_user_agents": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_mailpoet_user_flags": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_options": {
+                "inaccurateRows": 651,
+                "insertedRows": 650,
+                "size": 4070464
+            },
+            "wp_postmeta": {
+                "inaccurateRows": 3663,
+                "insertedRows": 3323,
+                "size": 3978424
+            },
+            "wp_posts": {
+                "inaccurateRows": 623,
+                "insertedRows": 623,
+                "size": 10121896
+            },
+            "wp_term_relationships": {
+                "inaccurateRows": 51,
+                "insertedRows": 51,
+                "size": 6317
+            },
+            "wp_term_taxonomy": {
+                "inaccurateRows": 29,
+                "insertedRows": 29,
+                "size": 5332
+            },
+            "wp_termmeta": {
+                "inaccurateRows": 26,
+                "insertedRows": 26,
+                "size": 11304
+            },
+            "wp_terms": {
+                "inaccurateRows": 29,
+                "insertedRows": 29,
+                "size": 14348
+            },
+            "wp_usermeta": {
+                "inaccurateRows": 35,
+                "insertedRows": 35,
+                "size": 30456
+            },
+            "wp_users": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 8316
+            },
+            "wp_wc_admin_note_actions": {
+                "inaccurateRows": 56,
+                "insertedRows": 56,
+                "size": 12300
+            },
+            "wp_wc_admin_notes": {
+                "inaccurateRows": 49,
+                "insertedRows": 49,
+                "size": 22460
+            },
+            "wp_wc_category_lookup": {
+                "inaccurateRows": 7,
+                "insertedRows": 7,
+                "size": 2167
+            },
+            "wp_wc_customer_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 2048
+            },
+            "wp_wc_download_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_wc_order_coupon_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_wc_order_product_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_wc_order_stats": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            },
+            "wp_wc_order_tax_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_wc_product_attributes_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_wc_product_download_directories": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 9416
+            },
+            "wp_wc_product_meta_lookup": {
+                "inaccurateRows": 16,
+                "insertedRows": 16,
+                "size": 11136
+            },
+            "wp_wc_rate_limits": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 4096
+            },
+            "wp_wc_reserved_stock": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_wc_tax_rate_classes": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 9292
+            },
+            "wp_wc_webhooks": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_woocommerce_api_keys": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 2048
+            },
+            "wp_woocommerce_attribute_taxonomies": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_woocommerce_downloadable_product_permissions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_woocommerce_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_woocommerce_order_itemmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_woocommerce_order_items": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_woocommerce_payment_tokenmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_woocommerce_payment_tokens": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_woocommerce_sessions": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 7920
+            },
+            "wp_woocommerce_shipping_zone_locations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_woocommerce_shipping_zone_methods": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_woocommerce_shipping_zones": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_woocommerce_tax_rate_locations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_woocommerce_tax_rates": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_yoast_indexable": {
+                "inaccurateRows": 213,
+                "insertedRows": 213,
+                "size": 112052
+            },
+            "wp_yoast_indexable_hierarchy": {
+                "inaccurateRows": 183,
+                "insertedRows": 183,
+                "size": 21251
+            },
+            "wp_yoast_migrations": {
+                "inaccurateRows": 23,
+                "insertedRows": 23,
+                "size": 9768
+            },
+            "wp_yoast_primary_term": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 1024
+            },
+            "wp_yoast_seo_links": {
+                "inaccurateRows": 113,
+                "insertedRows": 113,
+                "size": 25756
+            }
+        },
+        "varLowerCaseTables": "1",
+        "dbEngine": "MySQL",
+        "version": "8.0.27",
+        "versionComment": "MySQL Community Server - GPL",
+        "viewCount": 0,
+        "procCount": 0,
+        "funcCount": 0,
+        "triggerList": []
+    },
+    "packInfo": {
+        "packageId": 1,
+        "packageName": "20221018_metadev",
+        "packageHash": "24077c7-18142133",
+        "secondaryHash": "2a9b1a6-18142133"
+    },
+    "fileInfo": {
+        "dirCount": 4939,
+        "fileCount": 28117,
+        "size": 167077077
+    },
+    "wpInfo": {
+        "version": "6.0.2",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "C:\/wamp64\/www\/public\/boutique\/boutiqueMetaDev",
+        "targetPaths": [
+            "C:\/wamp64\/www\/public\/boutique\/boutiqueMetaDev"
+        ],
+        "adminUsers": [
+            {
+                "ID": "1",
+                "user_login": "admin",
+                "id": "1"
+            }
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "C:\\wamp64\\www\\public\\boutique\\boutiqueMetaDev\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8mb4",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "k2l 5U(DS`ekY=Smi&ANjW;L6gj})Q7$#Idq:XT-qsD+,@KI=.~zMEB)W>5iq!O7",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "CkfFRh7,J^Cy>mx%)TaB637u ?sICd(>{s4DLGDdV6ueAM+Pz)V9vC]E3MexT{!P",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "|gu+;|dW D!m25T[tBGONJO?1{D-h<Q!$%SiIS!17&*^WK~$CRl><F}t(evcFdD-",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "7<=N%$dBT|0xJ,3C,2T7W_TH(6XdnW ]?VLSTY[`h(Vk:7=&(>7H=#b-V>o~?|,,",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "+oiXd!hzzK69#oudU9;KC7gtL^Q[]>g!lm5&X1vY,EggQ-$i) $oLv[WUOyv}`n2",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": ":G,fmrqMV9$MR9pN kCEde~`O}Wv>HawXPs+-QQ8H{DKEO9ujQ^EwNe|Gfg%)wA&",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "zF1KeQE$O7z\/NnR}5+,wUJ-$p!UCk,-5Gs+iRyA]U]-2f2dbC[SKFn5g`dPss%Ko",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "$:W#,TC$:L48J~8q]e<.!KGQ>Bj#}%+1:CkS3t!euramFFJpyFwb,v@_-*0C TOT",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "C:\\wamp64\\www\\public\\boutique\\boutiqueMetaDev\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "http:\/\/public\/boutique\/boutiqueMetaDev\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "C:\\wamp64\\www\\public\\boutique\\boutiqueMetaDev\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "http:\/\/public\/boutique\/boutiqueMetaDev\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "UPLOADS": {
+                    "value": "wp-content\/uploads",
+                    "inWpConfig": true
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "256M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": true,
+                    "inWpConfig": true
+                },
+                "WPCACHEHOME": {
+                    "value": "C:\\wamp64\\www\\public\\boutique\\boutiqueMetaDev\\wp-content\\plugins\\wp-super-cache\/",
+                    "inWpConfig": true
+                },
+                "WP_LANG_DIR": {
+                    "value": "C:\\wamp64\\www\\public\\boutique\\boutiqueMetaDev\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/boutique\/boutiqueMetaDev\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/boutique\/boutiqueMetaDev\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/boutique\/boutiqueMetaDev\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/boutique\/boutiqueMetaDev\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "C:\\wamp64\\www\\public\\boutique\\boutiqueMetaDev\/wp-content\/themes\/blocksy",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "C:\\wamp64\\www\\public\\boutique\\boutiqueMetaDev\/wp-content\/themes\/blocksy",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "C:\\wamp64\\www\\public\\boutique\\boutiqueMetaDev\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "http:\/\/public\/boutique\/boutiqueMetaDev\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "http:\/\/public\/boutique\/boutiqueMetaDev",
+                "homeUrl": "http:\/\/public\/boutique\/boutiqueMetaDev",
+                "contentUrl": "http:\/\/public\/boutique\/boutiqueMetaDev\/wp-content",
+                "uploadBaseUrl": "http:\/\/public\/boutique\/boutiqueMetaDev\/wp-content\/uploads",
+                "pluginsUrl": "http:\/\/public\/boutique\/boutiqueMetaDev\/wp-content\/plugins",
+                "mupluginsUrl": "http:\/\/public\/boutique\/boutiqueMetaDev\/wp-content\/mu-plugins",
+                "themesUrl": "http:\/\/public\/boutique\/boutiqueMetaDev\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "C:\/wamp64\/www\/public\/boutique\/boutiqueMetaDev",
+                    "abs": "C:\\wamp64\\www\\public\\boutique\\boutiqueMetaDev",
+                    "wpconfig": "C:\/wamp64\/www\/public\/boutique\/boutiqueMetaDev",
+                    "wpcontent": "C:\\wamp64\\www\\public\\boutique\\boutiqueMetaDev\/wp-content",
+                    "uploads": "C:\\wamp64\\www\\public\\boutique\\boutiqueMetaDev\/wp-content\/uploads",
+                    "plugins": "C:\\wamp64\\www\\public\\boutique\\boutiqueMetaDev\/wp-content\/plugins",
+                    "muplugins": "C:\\wamp64\\www\\public\\boutique\\boutiqueMetaDev\/wp-content\/mu-plugins",
+                    "themes": "C:\\wamp64\\www\\public\\boutique\\boutiqueMetaDev\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "C:\/wamp64\/www\/public\/boutique\/boutiqueMetaDev",
+                    "abs": "C:\/wamp64\/www\/public\/boutique\/boutiqueMetaDev",
+                    "wpconfig": "C:\/wamp64\/www\/public\/boutique\/boutiqueMetaDev",
+                    "wpcontent": "C:\/wamp64\/www\/public\/boutique\/boutiqueMetaDev\/wp-content",
+                    "uploads": "C:\/wamp64\/www\/public\/boutique\/boutiqueMetaDev\/wp-content\/uploads",
+                    "plugins": "C:\/wamp64\/www\/public\/boutique\/boutiqueMetaDev\/wp-content\/plugins",
+                    "muplugins": "C:\/wamp64\/www\/public\/boutique\/boutiqueMetaDev\/wp-content\/mu-plugins",
+                    "themes": "C:\/wamp64\/www\/public\/boutique\/boutiqueMetaDev\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "tuxedo-big-file-uploads\/tuxedo_big_file_uploads.php": {
+                "slug": "tuxedo-big-file-uploads\/tuxedo_big_file_uploads.php",
+                "name": "Big File Uploads",
+                "version": "2.1.1",
+                "pluginURI": "",
+                "author": "Infinite Uploads",
+                "authorURI": "https:\/\/infiniteuploads.com\/?utm_source=bfu_plugin&utm_medium=plugin&utm_campaign=bfu_plugin&utm_content=meta",
+                "description": "Enable large file uploads in the built-in WordPress media uploader via multipart uploads, and set maximum upload file size to any value based on user role. Uploads can be as large as available disk space allows.",
+                "title": "Big File Uploads",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator\/duplicator.php": {
+                "slug": "duplicator\/duplicator.php",
+                "name": "Duplicator",
+                "version": "1.5.0",
+                "pluginURI": "https:\/\/snapcreek.com\/duplicator\/duplicator-free\/",
+                "author": "Snap Creek",
+                "authorURI": "http:\/\/www.snapcreek.com\/duplicator\/",
+                "description": "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "elementor\/elementor.php": {
+                "slug": "elementor\/elementor.php",
+                "name": "Elementor",
+                "version": "3.7.8",
+                "pluginURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash",
+                "author": "Elementor.com",
+                "authorURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash",
+                "description": "The Elementor Website Builder has it all: drag and drop page builder, pixel perfect design, mobile responsive editing, and more. Get started now!",
+                "title": "Elementor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "facebook-for-woocommerce\/facebook-for-woocommerce.php": {
+                "slug": "facebook-for-woocommerce\/facebook-for-woocommerce.php",
+                "name": "Facebook for WooCommerce",
+                "version": "2.6.25",
+                "pluginURI": "https:\/\/github.com\/facebookincubator\/facebook-for-woocommerce\/",
+                "author": "Facebook",
+                "authorURI": "https:\/\/www.facebook.com\/",
+                "description": "Grow your business on Facebook! Use this official plugin to help sell more of your products using Facebook. After completing the setup, you'll be ready to create ads that promote your products and you can also create a shop section on your Page where customers can browse your products on Facebook.",
+                "title": "Facebook for WooCommerce",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "google-listings-and-ads\/google-listings-and-ads.php": {
+                "slug": "google-listings-and-ads\/google-listings-and-ads.php",
+                "name": "Google Listings and Ads",
+                "version": "2.1.4",
+                "pluginURI": "",
+                "author": "WooCommerce",
+                "authorURI": "https:\/\/woocommerce.com\/",
+                "description": "Native integration with Google that allows merchants to easily display their products across Google\u2019s network.",
+                "title": "Google Listings and Ads",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ionos-sso\/ionos-sso.php": {
+                "slug": "ionos-sso\/ionos-sso.php",
+                "name": "IONOS Login",
+                "version": "2.1.2",
+                "pluginURI": "https:\/\/www.ionos.com",
+                "author": "IONOS",
+                "authorURI": "https:\/\/www.ionos.com",
+                "description": "IONOS Login allows you to login with your IONOS customer ID and password through the IONOS Control Panel login page. You then have an active session in both your WordPress and your Control Panel and can jump easily from one to the other.",
+                "title": "IONOS Login",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ionos-performance\/ionos-performance.php": {
+                "slug": "ionos-performance\/ionos-performance.php",
+                "name": "IONOS Performance",
+                "version": "1.1.2",
+                "pluginURI": "https:\/\/www.ionos.com",
+                "author": "IONOS",
+                "authorURI": "https:\/\/www.ionos.com",
+                "description": "IONOS Performance uses a cache to store HTML content generated by WordPress temporarily. You can use this cache to improve your website\u2019s performance without the need for cumbersome configuration simply by activating this plugin.",
+                "title": "IONOS Performance",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "jetpack\/jetpack.php": {
+                "slug": "jetpack\/jetpack.php",
+                "name": "Jetpack",
+                "version": "11.4",
+                "pluginURI": "https:\/\/jetpack.com",
+                "author": "Automattic",
+                "authorURI": "https:\/\/jetpack.com",
+                "description": "Security, performance, and marketing tools made by WordPress experts. Jetpack keeps your site protected so you can focus on more important things.",
+                "title": "Jetpack",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "limit-login-attempts-reloaded\/limit-login-attempts-reloaded.php": {
+                "slug": "limit-login-attempts-reloaded\/limit-login-attempts-reloaded.php",
+                "name": "Limit Login Attempts Reloaded",
+                "version": "2.25.5",
+                "pluginURI": "",
+                "author": "Limit Login Attempts Reloaded",
+                "authorURI": "https:\/\/www.limitloginattempts.com\/",
+                "description": "Block excessive login attempts and protect your site against brute force attacks. Simple, yet powerful tools to improve site performance.",
+                "title": "Limit Login Attempts Reloaded",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "mailpoet\/mailpoet.php": {
+                "slug": "mailpoet\/mailpoet.php",
+                "name": "MailPoet",
+                "version": "3.100.0",
+                "pluginURI": "http:\/\/www.mailpoet.com",
+                "author": "MailPoet",
+                "authorURI": "http:\/\/www.mailpoet.com",
+                "description": "Create and send newsletters, post notifications and welcome emails from your WordPress.",
+                "title": "MailPoet",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "custom-css-js\/custom-css-js.php": {
+                "slug": "custom-css-js\/custom-css-js.php",
+                "name": "Simple Custom CSS and JS",
+                "version": "3.40",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/custom-css-js\/",
+                "author": "SilkyPress.com",
+                "authorURI": "https:\/\/www.silkypress.com",
+                "description": "Easily add Custom CSS or JS to your website with an awesome editor.",
+                "title": "Simple Custom CSS and JS",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "updraftplus\/updraftplus.php": {
+                "slug": "updraftplus\/updraftplus.php",
+                "name": "UpdraftPlus - Backup\/Restore",
+                "version": "1.22.23",
+                "pluginURI": "https:\/\/updraftplus.com",
+                "author": "UpdraftPlus.Com, DavidAnderson",
+                "authorURI": "https:\/\/updraftplus.com",
+                "description": "Backup and restore: take backups locally, or backup to Amazon S3, Dropbox, Google Drive, Rackspace, (S)FTP, WebDAV & email, on automatic schedules.",
+                "title": "UpdraftPlus - Backup\/Restore",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "woocommerce\/woocommerce.php": {
+                "slug": "woocommerce\/woocommerce.php",
+                "name": "WooCommerce",
+                "version": "6.9.4",
+                "pluginURI": "https:\/\/woocommerce.com\/",
+                "author": "Automattic",
+                "authorURI": "https:\/\/woocommerce.com",
+                "description": "An eCommerce toolkit that helps you sell anything. Beautifully.",
+                "title": "WooCommerce",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "woocommerce-payments\/woocommerce-payments.php": {
+                "slug": "woocommerce-payments\/woocommerce-payments.php",
+                "name": "WooCommerce Payments",
+                "version": "4.8.1",
+                "pluginURI": "https:\/\/woocommerce.com\/payments\/",
+                "author": "Automattic",
+                "authorURI": "https:\/\/woocommerce.com\/",
+                "description": "Accept payments via credit card. Manage transactions within WordPress.",
+                "title": "WooCommerce Payments",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "woocommerce-services\/woocommerce-services.php": {
+                "slug": "woocommerce-services\/woocommerce-services.php",
+                "name": "WooCommerce Shipping & Tax",
+                "version": "1.26.3",
+                "pluginURI": "https:\/\/woocommerce.com\/",
+                "author": "WooCommerce",
+                "authorURI": "https:\/\/woocommerce.com\/",
+                "description": "Hosted services for WooCommerce: automated tax calculation, shipping label printing, and smoother payment setup.",
+                "title": "WooCommerce Shipping & Tax",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-super-cache\/wp-cache.php": {
+                "slug": "wp-super-cache\/wp-cache.php",
+                "name": "WP Super Cache",
+                "version": "1.9",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/wp-super-cache\/",
+                "author": "Automattic",
+                "authorURI": "https:\/\/automattic.com\/",
+                "description": "Very fast caching plugin for WordPress.",
+                "title": "WP Super Cache",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wordpress-seo\/wp-seo.php": {
+                "slug": "wordpress-seo\/wp-seo.php",
+                "name": "Yoast SEO",
+                "version": "19.7.2",
+                "pluginURI": "https:\/\/yoa.st\/1uj",
+                "author": "Team Yoast",
+                "authorURI": "https:\/\/yoa.st\/1uk",
+                "description": "The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more.",
+                "title": "Yoast SEO",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ionos-marketplace.php": {
+                "slug": "ionos-marketplace.php",
+                "name": "IONOS Marketplace",
+                "version": "1.1.5",
+                "pluginURI": "https:\/\/www.ionos.com",
+                "author": "IONOS",
+                "authorURI": "https:\/\/www.ionos.com",
+                "description": "IONOS Marketplace offers you a list of carefully selected plugins that will add functionality to your WordPress instance and improve your user experience.",
+                "title": "IONOS Marketplace",
+                "networkActive": false,
+                "active": false,
+                "mustUse": true,
+                "dropIns": false
+            },
+            "automation-by-installatron.php": {
+                "slug": "automation-by-installatron.php",
+                "name": "WordPress automation by Installatron",
+                "version": "",
+                "pluginURI": "",
+                "author": "",
+                "authorURI": "",
+                "description": "Management of this WordPress site is provided by Installatron.",
+                "title": "WordPress automation by Installatron",
+                "networkActive": false,
+                "active": false,
+                "mustUse": true,
+                "dropIns": false
+            },
+            "advanced-cache.php": {
+                "slug": "advanced-cache.php",
+                "name": "advanced-cache.php",
+                "version": "",
+                "pluginURI": "",
+                "author": "",
+                "authorURI": "",
+                "description": "",
+                "title": "",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": true
+            }
+        },
+        "themes": {
+            "astra": {
+                "slug": "astra",
+                "themeName": "Astra",
+                "version": "3.9.2",
+                "themeURI": "https:\/\/wpastra.com\/",
+                "parentTheme": false,
+                "template": "astra",
+                "stylesheet": "astra",
+                "description": "Astra is fast, fully customizable &amp; beautiful WordPress theme suitable for blog, personal portfolio, business website and WooCommerce storefront. It is very lightweight (less than 50KB on frontend) and offers unparalleled speed. Built with SEO in mind, Astra comes with Schema.org code integrated and is Native AMP ready so search engines will love your site. It offers special features and templates so it works perfectly with all page builders like Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi, etc. Some of the other features: # WooCommerce Ready # Responsive # RTL &amp; Translation Ready # Extendible with premium addons # Regularly updated # Designed, Developed, Maintained &amp; Supported by Brainstorm Force. Looking for a perfect base theme? Look no further. Astra is fast, fully customizable and WooCommerce ready theme that you can use for building any kind of website!",
+                "author": "Brainstorm Force",
+                "authorURI": "https:\/\/wpastra.com\/about\/?utm_source=theme_preview&utm_medium=author_link&utm_campaign=astra_theme",
+                "tags": [
+                    "custom-menu",
+                    "custom-logo",
+                    "entertainment",
+                    "one-column",
+                    "two-columns",
+                    "left-sidebar",
+                    "e-commerce",
+                    "right-sidebar",
+                    "custom-colors",
+                    "editor-style",
+                    "featured-images",
+                    "full-width-template",
+                    "microformats",
+                    "post-formats",
+                    "rtl-language-support",
+                    "theme-options",
+                    "threaded-comments",
+                    "translation-ready",
+                    "blog"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "blocksy": {
+                "slug": "blocksy",
+                "themeName": "Blocksy",
+                "version": "1.8.52",
+                "themeURI": "https:\/\/creativethemes.com\/blocksy\/",
+                "parentTheme": false,
+                "template": "blocksy",
+                "stylesheet": "blocksy",
+                "description": "Blocksy is a blazing fast and lightweight WordPress theme built with the latest web technologies. It was built with the Gutenberg editor in mind and has a lot of options that makes it extendable and customizable. You can easily create any type of website, such as business agency, shop, corporate, education, restaurant, blog, portfolio, landing page and so on. It works like a charm with popular WordPress page builders, including Elementor, Beaver Builder, Visual Composer and Brizy. Since it is responsive and adaptive, translation ready, SEO optimized and has WooCommerce built-in, you will experience an easy build and even an increase in conversions. Note: Blocksy is built with the latest web technologies in order to bring you the smoothest experience, that told, old browsers like IE 11 and below may not work as expected. We strongly recommend you to update\/switch to a modern browser.",
+                "author": "CreativeThemes",
+                "authorURI": "https:\/\/creativethemes.com",
+                "tags": [
+                    "blog",
+                    "e-commerce",
+                    "wide-blocks",
+                    "block-styles",
+                    "grid-layout",
+                    "one-column",
+                    "two-columns",
+                    "three-columns",
+                    "four-columns",
+                    "right-sidebar",
+                    "left-sidebar",
+                    "translation-ready",
+                    "custom-colors",
+                    "custom-logo",
+                    "custom-menu",
+                    "featured-images",
+                    "footer-widgets",
+                    "full-width-template",
+                    "theme-options",
+                    "threaded-comments",
+                    "buddypress",
+                    "rtl-language-support",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": false
+            },
+            "blocksy_child": {
+                "slug": "blocksy_child",
+                "themeName": "Theme enfant",
+                "version": "0.1.0",
+                "themeURI": "",
+                "parentTheme": "blocksy",
+                "template": "blocksy",
+                "stylesheet": "blocksy_child",
+                "description": "Theme enfant de Benoit WPServeur",
+                "author": "Benoit - WPserveur",
+                "authorURI": "https:\/\/www.wpserveur.net",
+                "tags": [],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "futurio": {
+                "slug": "futurio",
+                "themeName": "Futurio",
+                "version": "1.5.0",
+                "themeURI": "https:\/\/futuriowp.com\/",
+                "parentTheme": false,
+                "template": "futurio",
+                "stylesheet": "futurio",
+                "description": "Futurio is a lightweight, fast and customizable free multi-purpose and WooCommerce WordPress theme, suitable for business, portfolio, creative, and photography sites, eCommerce shops, landing pages, blogs or WooCommerce storefronts. Futurio works perfectly with all page builders, like Elementor, Beaver Builder, King Composer, Brizy, Visual Composer, SiteOrigin, Divi or Gutenberg, and supports most free and premium WordPress plugins, like WooCommerce, Jetpack, Contact Form 7, Yoast SEO and many more. Futurio is responsive, SEO friendly, WPML, translation and RTL ready, and comes with a 1-click-demo-import feature. Demos ready for download: https:\/\/futuriowp.com\/demos\/",
+                "author": "FuturioWP",
+                "authorURI": "https:\/\/futuriowp.com\/about\/",
+                "tags": [
+                    "one-column",
+                    "two-columns",
+                    "right-sidebar",
+                    "left-sidebar",
+                    "custom-background",
+                    "custom-header",
+                    "full-width-template",
+                    "rtl-language-support",
+                    "custom-menu",
+                    "editor-style",
+                    "featured-images",
+                    "translation-ready",
+                    "custom-logo",
+                    "threaded-comments",
+                    "footer-widgets",
+                    "blog",
+                    "e-commerce"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "hestia": {
+                "slug": "hestia",
+                "themeName": "Hestia",
+                "version": "3.0.24",
+                "themeURI": "https:\/\/themeisle.com\/themes\/hestia\/",
+                "parentTheme": false,
+                "template": "hestia",
+                "stylesheet": "hestia",
+                "description": "Hestia is a modern WordPress theme for professionals. It fits creative business, small businesses (restaurants, wedding planners, sport\/medical shops), startups, corporate businesses, online agencies and firms, portfolios, ecommerce (WooCommerce), and freelancers. It has a multipurpose one-page design, widgetized footer, blog\/news page and a clean look, is compatible with: Flat Parallax Slider, Photo Gallery, Travel Map and Elementor Page Builder . The theme is responsive, WPML, Retina ready, SEO friendly, and uses Material Kit for design.",
+                "author": "ThemeIsle",
+                "authorURI": "https:\/\/themeisle.com",
+                "tags": [
+                    "blog",
+                    "custom-logo",
+                    "portfolio",
+                    "e-commerce",
+                    "rtl-language-support",
+                    "post-formats",
+                    "grid-layout",
+                    "one-column",
+                    "two-columns",
+                    "custom-background",
+                    "custom-colors",
+                    "custom-header",
+                    "custom-menu",
+                    "featured-image-header",
+                    "featured-images",
+                    "flexible-header",
+                    "full-width-template",
+                    "sticky-post",
+                    "theme-options",
+                    "threaded-comments",
+                    "translation-ready",
+                    "editor-style",
+                    "footer-widgets",
+                    "left-sidebar",
+                    "right-sidebar",
+                    "wide-blocks"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "materialis": {
+                "slug": "materialis",
+                "themeName": "Materialis",
+                "version": "1.1.18",
+                "themeURI": "https:\/\/extendthemes.com\/go\/materialis-home\/",
+                "parentTheme": false,
+                "template": "materialis",
+                "stylesheet": "materialis",
+                "description": "Materialis is an incredibly flexible, multipurpose WordPress theme that can help you create an amazing website easier than ever, by drag and drop. It uses beautiful material design and it comes with a predesigned home page. It also has lots of customization options (video background, slideshow background, header content types, gradient overlays, etc) that will help you create a beautiful, unique website in no time. Materialis is responsive so it works on mobile devices out of the box.",
+                "author": "Extend Themes",
+                "authorURI": "https:\/\/extendthemes.com\/",
+                "tags": [
+                    "entertainment",
+                    "food-and-drink",
+                    "portfolio",
+                    "one-column",
+                    "two-columns",
+                    "right-sidebar",
+                    "grid-layout",
+                    "custom-header",
+                    "custom-menu",
+                    "custom-logo",
+                    "full-width-template",
+                    "theme-options",
+                    "translation-ready",
+                    "featured-images",
+                    "threaded-comments"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "royal-elementor-kit": {
+                "slug": "royal-elementor-kit",
+                "themeName": "Royal Elementor Kit",
+                "version": "1.0.96",
+                "themeURI": "https:\/\/royal-elementor-addons.com\/royal-elementor-kit",
+                "parentTheme": false,
+                "template": "royal-elementor-kit",
+                "stylesheet": "royal-elementor-kit",
+                "description": "Truly all in one Solution For Elementor Lovers. 30+ Elementor Templates KIT, 50+ Professional Elementor Widgets, Elementor theme builder, Elementor Popup Builder, Elementor Premade blocks and many other cool features like Sticky Header, Particle effects, parallax backgrounds and many other elementor addons. Simple Install the theme, click on - Get Started with Templates Kit button and that's it. Very easy to use even for WordPress beginners or professionals. All In one Elementor Solution which outranks all other Elementor themes and Elementor addons. ########### TEMPLATES INCLUDED: Elementor Blog Template, Elementor Magazine Blog Template, Elementor Food Blog Template, Elementor Travel Blog Template, Elementor Portfolio Template, Elementor NFT Template, Elementor Pizza Restaurant Template, Elementor Travel Blogger &amp; Influencer Template, Elementor Cybersecurity Template, Elementor Photographer Portfolio Template, Elementor Crypto Currency Template, Elementor Skin Care Template, Elementor Lawyer Template, Elementor Medical Template, Elementor Digital Agency Template, Elementor Drone Template, Elementro Architecture Template, Elementor Food Delivery Template, Elementor Construction Template, Elementor IT Technology Template, Elementor Real Estate Template, Elementor Restaurant Template, Elementor Wine Bar &amp; Restaurant Template, Elementor Wedding Template &amp; other beautiful elementor business templates. All these templates are created with elementor page builder. Theme Demo Page: https:\/\/royal-elementor-addons.com\/royal-elementor-kit\/",
+                "author": "WP Royal",
+                "authorURI": "https:\/\/royal-elementor-addons.com\/",
+                "tags": [
+                    "blog",
+                    "e-commerce",
+                    "one-column",
+                    "custom-background",
+                    "custom-colors",
+                    "full-width-template",
+                    "custom-menu",
+                    "custom-logo",
+                    "featured-images",
+                    "sticky-post",
+                    "theme-options",
+                    "threaded-comments",
+                    "translation-ready"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "storely": {
+                "slug": "storely",
+                "themeName": "Storely",
+                "version": "1.0.38",
+                "themeURI": "https:\/\/sellerthemes.com\/storely-free\/",
+                "parentTheme": false,
+                "template": "storely",
+                "stylesheet": "storely",
+                "description": "Storely is a WooCommerce multipurpose WordPress theme designed for shopping online stores. Storely is suitable for eCommerce websites such as fashion, suit, sneaker, shoes, glasses, accessories, supermarket \u2026 or anything you want. The theme is built with lots of cool features and fully eCommerce functionalities in Pro version. Visit Storely pro demo. https:\/\/preview.sellerthemes.com\/pro\/storely",
+                "author": "Seller Themes",
+                "authorURI": "https:\/\/sellerthemes.com\/",
+                "tags": [
+                    "one-column",
+                    "two-columns",
+                    "right-sidebar",
+                    "flexible-header",
+                    "custom-background",
+                    "custom-colors",
+                    "custom-header",
+                    "custom-menu",
+                    "custom-logo",
+                    "featured-image-header",
+                    "featured-images",
+                    "footer-widgets",
+                    "full-width-template",
+                    "sticky-post",
+                    "theme-options",
+                    "threaded-comments",
+                    "translation-ready",
+                    "blog",
+                    "e-commerce",
+                    "portfolio",
+                    "editor-style",
+                    "grid-layout"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "storezia": {
+                "slug": "storezia",
+                "themeName": "Storezia",
+                "version": "1.0.15",
+                "themeURI": "https:\/\/sellerthemes.com\/storezia-free\/",
+                "parentTheme": "storely",
+                "template": "storely",
+                "stylesheet": "storezia",
+                "description": "Storezia is a WooCommerce multipurpose WordPress theme designed for shopping online stores. Storezia is suitable for eCommerce websites such as fashion, suit, sneaker, shoes, glasses, accessories, supermarket \u2026 or anything you want. The theme is built with lots of cool features and fully eCommerce functionalities in Pro version. Visit Storezia pro demo. https:\/\/preview.sellerthemes.com\/pro\/storezia\/",
+                "author": "Seller Themes",
+                "authorURI": "https:\/\/sellerthemes.com\/",
+                "tags": [
+                    "one-column",
+                    "two-columns",
+                    "right-sidebar",
+                    "flexible-header",
+                    "custom-background",
+                    "custom-colors",
+                    "custom-header",
+                    "custom-menu",
+                    "custom-logo",
+                    "featured-image-header",
+                    "featured-images",
+                    "footer-widgets",
+                    "full-width-template",
+                    "sticky-post",
+                    "theme-options",
+                    "threaded-comments",
+                    "translation-ready",
+                    "blog",
+                    "e-commerce",
+                    "portfolio",
+                    "editor-style",
+                    "grid-layout"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwenty": {
+                "slug": "twentytwenty",
+                "themeName": "Twenty Twenty",
+                "version": "2.0",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwenty\/",
+                "parentTheme": false,
+                "template": "twentytwenty",
+                "stylesheet": "twentytwenty",
+                "description": "Our default theme for 2020 is designed to take full advantage of the flexibility of the block editor. Organizations and businesses have the ability to create dynamic landing pages with endless layouts using the group and column blocks. The centered content column and fine-tuned typography also makes it perfect for traditional blogs. Complete editor styles give you a good idea of what your content will look like, even before you publish. You can give your site a personal touch by changing the background colors and the accent color in the Customizer. The colors of all elements on your site are automatically calculated based on the colors you pick, ensuring a high, accessible color contrast for your visitors.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "blog",
+                    "one-column",
+                    "custom-background",
+                    "custom-colors",
+                    "custom-logo",
+                    "custom-menu",
+                    "editor-style",
+                    "featured-images",
+                    "footer-widgets",
+                    "full-width-template",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "theme-options",
+                    "threaded-comments",
+                    "translation-ready",
+                    "block-patterns",
+                    "block-styles",
+                    "wide-blocks",
+                    "accessibility-ready"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentyone": {
+                "slug": "twentytwentyone",
+                "themeName": "Twenty Twenty-One",
+                "version": "1.6",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentyone\/",
+                "parentTheme": false,
+                "template": "twentytwentyone",
+                "stylesheet": "twentytwentyone",
+                "description": "Twenty Twenty-One is a blank canvas for your ideas and it makes the block editor your best brush. With new block patterns, which allow you to create a beautiful layout in a matter of seconds, this theme\u2019s soft colors and eye-catching \u2014 yet timeless \u2014 design will let your work shine. Take it for a spin! See how Twenty Twenty-One elevates your portfolio, business website, or personal blog.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "accessibility-ready",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "footer-widgets",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentytwo": {
+                "slug": "twentytwentytwo",
+                "themeName": "Twenty Twenty-Two",
+                "version": "1.2",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentytwo\/",
+                "parentTheme": false,
+                "template": "twentytwentytwo",
+                "stylesheet": "twentytwentytwo",
+                "description": "Built on a solidly designed foundation, Twenty Twenty-Two embraces the idea that everyone deserves a truly unique website. The theme\u2019s subtle styles are inspired by the diversity and versatility of birds: its typography is lightweight yet strong, its color palette is drawn from nature, and its layout elements sit gently on the page. The true richness of Twenty Twenty-Two lies in its opportunity for customization. The theme is built to take advantage of the Full Site Editing features introduced in WordPress 5.9, which means that colors, typography, and the layout of every single page on your site can be customized to suit your vision. It also includes dozens of block patterns, opening the door to a wide range of professionally designed layouts in just a few clicks. Whether you\u2019re building a single-page website, a blog, a business website, or a portfolio, Twenty Twenty-Two will help you create a site that is uniquely yours.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": true
+            }
+        }
+    },
+    "opts_delete": "[\"duplicator_ui_view_state\",\"duplicator_package_active\",\"duplicator_settings\",\"duplicator_is_pro_enable_notice_dismissed\"]",
+    "brand": {
+        "name": "Duplicator",
+        "isDefault": true,
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator",
+        "enabled": false,
+        "style": []
+    },
+    "overwriteInstallerParams": {
+        "blogname": {
+            "value": "MetaDev"
+        }
+    },
+    "installer_base_name": "installer.php.bak",
+    "installer_backup_name": "20221018_metadev_24077c718994efe73449_20221018142133_installer-backup.php",
+    "package_name": "20221018_metadev_24077c718994efe73449_20221018142133_archive.zip",
+    "package_hash": "24077c7-18142133",
+    "package_notes": ""
+}
